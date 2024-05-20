@@ -74,6 +74,8 @@ Na aba "Livros", ao selecionar o ícone "+" para adicionar um livro em sua prate
 
 ![cadastro livro 3](./assets/cadastro%20livro%203.jpg)
 
+![cadastro livro 4]([./assets/cadastro%20livro%201.jpg)
+
 
 Como teste disponibilizaremos algumas infomrações para cadastro:
 
